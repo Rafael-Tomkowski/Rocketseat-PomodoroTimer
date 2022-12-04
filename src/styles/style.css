@@ -43,11 +43,7 @@ main {
     display: none;
 }
 
-.play svg path,
-.pause svg path,
-.sound-on svg path {
-    fill: var(--primary-color);
-}
+ 
 
 button svg {
     width: clamp(3.2rem, 2rem + 12vw, 6.4rem);
